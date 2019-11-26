@@ -102,6 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea
 .idea/workspace.xml
 .idea/modules.xml
 .idea/SKilledMessenger.iml
